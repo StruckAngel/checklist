@@ -1,0 +1,15 @@
+{
+	"backgroundColor": "#2a64b0",
+	"fonts": {
+		"fontFamily": "Comic Sans MS",
+		"checkBoxSize": 10,
+		"formSize": 8,
+		"tabSize": 9,
+		"buttonSize": 10,
+		"statusLabelSize": 9
+	},
+	"images": {
+		"versionImage": "\\\\as12\\techshares\\Tech Shares\\MISJAP\\etc\\Images\\cooltext496528583441384.png",
+		"clippyImage": "\\\\as12\\TechShares\\Tech Shares\\misjap\\Scripts\\checklist\\resources\\clippy.png"
+	}
+}

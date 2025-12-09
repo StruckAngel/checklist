@@ -1,0 +1,29 @@
+{
+  "tabName": "Example",
+  "items": [
+    {
+      "name": "Example Application",
+      "type": "exe",
+      "path": "C:\\Support\\ExampleApp.exe",
+      "args": "/silent",
+      "wait": true,
+      "logMessage": "Installing Example Application"
+    },
+    {
+      "name": "Example MSI Install",
+      "type": "msi",
+      "path": "\\\\server\\share\\ExampleSetup.msi",
+      "args": "/qn /norestart",
+      "runAs": true,
+      "wait": true,
+      "logMessage": "Installing Example MSI"
+    },
+    {
+      "name": "Example Button Action",
+      "type": "command",
+      "command": "notepad.exe",
+      "logMessage": "Opening Notepad",
+      "displayAs": "button"
+    }
+  ]
+}
