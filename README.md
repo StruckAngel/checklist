@@ -7,10 +7,15 @@ This is a fork of the original smallchecklist. I have changed the original quite
 The folder layout must be followed or errors will occur:
 
 Checklist/
+│
 ├── TabbedChecklist.ps1
+│
 ├── config/
+│   │
 │   └── config.json
+│
 └── tabs/
+    │
     └── example.json
 
 ---
